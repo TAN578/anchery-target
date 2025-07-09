@@ -1,0 +1,62 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background: #eaeaea;
+}
+
+.target {
+  position: relative;
+  width: 20rem;
+  height: 20rem;
+}
+
+.ring {
+  position: absolute;
+  border-radius: 10rem;
+  top: 5rem;
+  left: 5rem;
+  transform:translate(-50%, -50%);
+}
+
+.aqua{
+  width: 24rem;
+  height: 24rem;
+  border-radius: 2rem;
+  background: aqua;
+}
+.red {
+  width: 20rem;
+  height: 20rem;
+  background: red;
+}
+
+.blue {
+  width: 16rem;
+  height: 16rem;
+  background: blue;
+}
+
+.yellow {
+  width: 12rem;
+  height: 12rem;
+  background: yellow;
+}
+
+.black {
+  width: 8rem;
+  height: 8rem;
+  background: black;
+}
+
+.white {
+  width: 4rem;
+  height: 4rem;
+  background: white;
+}
+.tomato{
+  width: 1rem;
+  height: 1rem;
+  background: tomato;
+}
